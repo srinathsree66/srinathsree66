@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SrinathSree&label=Profile%20views&color=0e75b6&style=flat" alt="SrinathSree" /> </p>
 
-- 🔭 I’m currently working on **Add to cart**
+- 🔭 I’m currently working on **New Project**
 
 - 🌱 I’m currently learning **Angular**
 
